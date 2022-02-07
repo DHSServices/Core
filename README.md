@@ -1,1 +1,2 @@
 # Core
+DHSServices Core module
