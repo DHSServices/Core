@@ -2,7 +2,7 @@
     "name": "dhsservices/core",
     "description": "DHSServices Core module",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -10,7 +10,6 @@
             "email": "ict@dhs-services.nl"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "files": [
